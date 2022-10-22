@@ -1,5 +1,7 @@
 # Pico-clock-timer
-A Pico based clock with a pomodoro timer. Includes a 3D printable case. Powered with USB. No network needed.
+A Pico based clock with a pomodoro timer. Includes a 3D printable case. Powered with USB. No network needed. Uses slightly modified TM1637 library https://github.com/mcauser/micropython-tm1637. 
+
+All necessary files are included in this repo.
 
 # A Raspberry Pi Pico based clock with a pomodoro timer including a 3D printable case and two control buttons for keyboard enthusiasts.
 - Only for raspberry Pi Pico
