@@ -5,6 +5,7 @@ A Pico based clock with a pomodoro timer. Includes a 3D printable case. Powered 
 - Only for raspberry Pi Pico
 - Uses TM1637.h screen
 - 2x led and 2x 330-ohm resistors
+- 2x Mechanical keyboard switches
 - 3D printable case
 - 4x screws (think M3 size) are needed to attach the bottom to the upper case
 - Some super glue to attach the screen and leds to the case
