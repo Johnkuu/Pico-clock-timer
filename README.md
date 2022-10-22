@@ -33,7 +33,7 @@ A Pico based clock with a pomodoro timer. Includes a 3D printable case. Powered 
 
 ## Instructions:
 - Print case (use supports, doesn´t consume time/resources, looks better)
-- Attach first the leds in the case with superglue
+- Attach first the leds in the case with superglue (after setting the screen in place, it might be a slightly tight over there)
 - Solder everything as instructed in PINS section, check everything is working before assembly. 
 - Attach the screen with superglue, bear in your mind that it´s done in the right direction (check the text on the board)
 - Attach the Pico to the bottom of the case. I used some filament from the 3D printer and heated the other end to make it flat. Some superglue in the holes in the bottom of the case and the filament through the Pico board holes and into the case holes.
