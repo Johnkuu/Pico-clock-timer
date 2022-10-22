@@ -26,9 +26,10 @@ A Pico based clock with a pomodoro timer. Includes a 3D printable case. Powered 
 
 ## PINS:
 
-Display: CLK=Pin (0), DIO=Pin(1), GND=GND, 5V=VBUS
-LEDs:  ledred = Pin (9), Cathode (-) = GND and ledblue = Pin (27), Cathode (-) = GND (don´t forget the resistor!)
-Buttons: Button1 = Pin (13), GND and button2 = Pin (18), GND
+- Display: CLK=Pin (0), DIO=Pin(1), GND=GND, 5V=VBUS
+- LEDs:  ledred = Pin (9), Cathode (-) = GND and ledblue = Pin (27), Cathode (-) = GND (don´t forget the resistor!)
+- Buttons: Button1 = Pin (13), GND and button2 = Pin (18), GND
+
 
 ## Instructions:
 - Print case (use supports, doesn´t consume time/resources, looks better)
