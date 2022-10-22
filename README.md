@@ -36,5 +36,6 @@ Buttons: Button1 = Pin (13), GND and button2 = Pin (18), GND
 - Solder everything as instructed in PINS section, check everything is working before assembly. 
 - Attach the screen with superglue, bear in your mind that it´s done in the right direction (check the text on the board)
 - Attach the Pico to the bottom of the case. I used some filament from the 3D printer and heated the other end to make it flat. Some superglue in the holes in the bottom of the case and the filament through the Pico board holes and into the case holes.
+
 ![Pico](https://user-images.githubusercontent.com/50976633/197330112-0730af83-3479-42e1-8b92-9064deb3e25b.jpg)
 
