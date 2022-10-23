@@ -6,7 +6,7 @@ All necessary files are included in this repo.
 
 
 
-BOM
+## BOM
 - Pi Pico
 - TM1637.h screen
 - 2x led and 2x 330-ohm resistors
